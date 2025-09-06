@@ -2,8 +2,10 @@
 **Software Engineer & System Analyst**  
 Bangkok, Thailand 🇹🇭  
 📞 +66-80-519-7333  
-📧 supakit@example.com  
-🔗 [GitHub](#https://github.com/NoisKung) | [LinkedIn](#https://www.linkedin.com/in/s-supakit/)
+📧 supakit021@gmail.com
+🔗 [GitHub](#https://github.com/NoisKung) | [LinkedIn](#https://www.linkedin.com/in/s-supakit/) | [Youtube](#https://www.youtube.com/@noiscser)
+
+<img src="img/profile.jpg" alt="Profile Photo" width="150" height="150" style="border-radius: 50%; object-fit: cover;">
 
 ---
 
@@ -36,6 +38,17 @@ Motivated and detail-oriented software engineer with 5+ years of experience desi
 - Coordinated cross-border feature releases, ensuring alignment between Japan-based product managers and Thailand-based engineering team.
 
 **Technologies:** .NET 8, WPF, SQL Server, Entity Framework, Docker, GitHub, Azure DevOps, Figma, Windows APIs
+
+---
+
+## 🎞️ Video Editor
+
+- Produced, edited, and published engaging video content for YouTube and Twitch, driving audience growth and improving viewer retention.
+- Managed end-to-end video production workflow, including planning, recording, editing, and post-production using industry-standard tools (Adobe Premiere Pro, DaVinci Resolve).
+- Collaborated with streamers and content creators to deliver high-quality multimedia assets tailored to target audiences.
+- Analyzed channel metrics to optimize content strategy and increase engagement across platforms.
+- Maintained consistent brand identity and visual style across all published media.
+- Channels: [YouTube](https://www.youtube.com/@noiscser) | [Twitch](https://www.twitch.tv/noiscser)
 
 ---
 
