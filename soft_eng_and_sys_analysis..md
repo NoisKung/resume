@@ -11,7 +11,7 @@ Bangkok, Thailand 🇹🇭
 
 ## 🎯 Objective
 
-Motivated and detail-oriented software engineer with 5+ years of experience designing and implementing internal tools and enterprise solutions using C#.NET. Proven ability to analyze complex systems, drive product improvements, and bridge the gap between engineering and operations. Seeking to contribute to Apple's mission of building innovative tools that empower people worldwide.
+Motivated and detail-oriented software engineer with 5+ years of experience designing and implementing internal tools and enterprise solutions using C#.NET. Proven ability to analyze complex systems, drive product improvements, and bridge the gap between engineering and operations. Seeking to contribute to Your mission of building innovative tools that empower people worldwide.
 
 ---
 
