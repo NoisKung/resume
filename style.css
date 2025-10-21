@@ -133,3 +133,38 @@ th {
     font-weight: 700;
     color: #333;
 }
+
+/* Resume Navigation Styles */
+.resume-nav {
+    background: #f0f4f8;
+    padding: 15px 20px;
+    border-radius: 8px;
+    margin-bottom: 30px;
+    border-left: 4px solid #4a90e2;
+}
+
+.resume-nav p {
+    margin: 0;
+    font-size: 1rem;
+    color: #555;
+}
+
+.md-link {
+    color: #4a90e2;
+    text-decoration: none;
+    font-weight: 600;
+    padding: 3px 8px;
+    border-radius: 4px;
+    transition: all 0.3s ease;
+}
+
+.md-link:hover {
+    background: #4a90e2;
+    color: white;
+    text-decoration: none;
+}
+
+.current-format {
+    color: #28a745;
+    font-weight: 600;
+}
