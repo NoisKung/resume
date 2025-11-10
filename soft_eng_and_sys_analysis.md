@@ -32,10 +32,12 @@ Motivated and detail-oriented software engineer with 5+ years of experience desi
 *2018 – Present | Niigata, Japan / Bangkok, Thailand*
 
 - Designed and developed enterprise-grade tools in C#/.NET to support internal operations and customer support processes.
-- Led system analysis for Log Collecting Solution (**MylogStar**) and DLP solution (**RunDX**), including requirements gathering, documentation, and technical reviews.
-- Architected and delivered **MylogStar Desktop**, **RunDX Device Control v2.0**, a diagnostic tool for data collection with a modern WPF front end.
+- Team Developed system analysis for Log Collecting Solution (**MylogStar**) and DLP solution (**RunDX**), including requirements gathering, documentation, and technical reviews.
+- Team Developed **MylogStar Desktop**, **RunDX Device Control v2.0**, a diagnostic tool for data collection with a modern WPF front end.
 - Developed backend log analysis systems for alert tracing, file export monitoring, and device activity reporting.
 - Coordinated cross-border feature releases, ensuring alignment between Japan-based product managers and Thailand-based engineering team.
+- Team Lead of 5 member, Offshore Develop Software from Japanese and get KPI of member to Supervisor
+- IT Support, Maintenance Server, Laptop and Network in Office.
 
 **Technologies:** .NET 8, WPF, SQL Server, Entity Framework, Docker, GitHub, Azure DevOps, Figma, Windows APIs
 
