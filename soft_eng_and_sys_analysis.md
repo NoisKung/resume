@@ -18,10 +18,14 @@ Motivated and detail-oriented software engineer with 5+ years of experience desi
 ## 🌟 Key Qualifications
 
 - **System Analysis & Architecture**: Expertise in translating business requirements into functional design. Adept at writing Use Cases, Flow Diagrams, and Technical Specs.
-- **C#.NET Engineering**: Experienced in developing scalable systems using .NET 6/8, ASP.NET MVC, WPF, Web API, and LINQ.
+- **C#.NET Developer**: Experienced in developing scalable systems using .NET, ASP.NET MVC, WPF, Web API, and LINQ, build the install or deployed on cloud platforms for production-grade reliability and performance.
+- **Full Stack Web Developer**: Skilled in building modern, scalable web applications using Next.js, React, and TypeScript with PostgreSQL backends, deployed on cloud platforms for production-grade reliability and performance.
 - **Database Design**: Strong command of SQL Server and MongoDB, including query optimization and schema design.
-- **Cross-functional Collaboration**: Worked directly with Japanese and Thai teams on shared codebases, support tooling, and multi-national deployments.
+- **Agile Methodologies**: Experienced in Scrum workflows, sprint planning, and iterative development cycles to deliver high-quality software on time.
+- **Technical Documentation**: Proficient in writing and maintaining technical documentation for internal and external users.
+- **IT Support**: Provided technical support and troubleshooting for end-users, ensuring minimal downtime and optimal system performance.
 - **Project Leadership**: Led a 5-member IT support team, aligning development efforts with user needs and support insights.
+- **Cross-functional Collaboration**: Worked directly with Japanese and Thai teams on shared codebases, support tooling, and multi-national deployments.
 
 ---
 
@@ -32,12 +36,12 @@ Motivated and detail-oriented software engineer with 5+ years of experience desi
 *2018 – Present | Niigata, Japan / Bangkok, Thailand*
 
 - Designed and developed enterprise-grade tools in C#/.NET to support internal operations and customer support processes.
-- Led system analysis for Log Collecting Solution (**MylogStar**) and DLP solution (**RunDX**), including requirements gathering, documentation, and technical reviews.
-- Architected and delivered **MylogStar Desktop**, **RunDX Device Control v2.0**, a diagnostic tool for data collection with a modern WPF front end.
-- Developed backend log analysis systems for alert tracing, file export monitoring, and device activity reporting.
+- Joined system design and development for Log Collecting Solution (**MylogStar**) and DLP solution (**RunDX**), including requirements gathering, technical documentation, and architectural design.
+- Architected and delivered **MylogStar Desktop** and **RunDX Device Control**, an enterprise-grade diagnostic and device control platform with advanced monitoring, remote policy management, and real-time data collection capabilities using modern WPF front end.
+- Developed backend log analysis systems for alert tracing, file export monitoring, and device activity reporting with multi-tenant architecture support.
 - Coordinated cross-border feature releases, ensuring alignment between Japan-based product managers and Thailand-based engineering team.
 
-**Technologies:** .NET 8, WPF, SQL Server, Entity Framework, Docker, GitHub, Azure DevOps, Figma, Windows APIs
+**Technologies:** .NET 8, .NET Blazor Framework, WPF, SQL Server, Entity Framework, Docker, GitHub, Azure DevOps, Figma, Windows APIs
 
 ---
 
@@ -65,14 +69,16 @@ Motivated and detail-oriented software engineer with 5+ years of experience desi
 
 ## 🛠 Technical Stack
 
-| Category     | Skills                                                        |
-|--------------|---------------------------------------------------------------|
-| Languages    | C#, SQL, TypeScript (basic), JavaScript (basic)               |
-| Frameworks   | .NET 6/8, ASP.NET MVC, WPF, Web API                           |
-| Databases    | SQL Server, MongoDB                                           |
-| Dev Tools    | Git, Visual Studio, Docker, Azure DevOps                      |
-| Design & UX  | Figma, RESTful API Design                                     |
-| Languages    | Thai (native), Japanese (business), English (intermediate)    |
+| Category                 | Skills                                                        |
+|--------------------------|---------------------------------------------------------------|
+| Languages                | C#, SQL, TypeScript (basic), JavaScript (basic)               |
+| Frameworks               | .NET, ASP.NET MVC, WPF, Web API, .NET Blazor                  |
+| Cloud Platforms Skill    | Azure, AWS, Google Cloud                                      |
+| Modern Web Development   | Full Stack Next.js, React, TypeScript                         |
+| Databases                | SQL Server, MongoDB, PostgreSQL                               |
+| Dev Tools                | Git, Visual Studio, Docker, Azure DevOps, AWS DevOps          |
+| Design & UX              | Figma, RESTful API Design                                     |
+| Languages                | Thai (native), Japanese (business), English (intermediate)    |
 
 ---
 
@@ -86,10 +92,10 @@ Thammasat University, Thailand — *Class of 2018*
 ## 🎖 Certifications
 
 - **AWS Certified Cloud Practitioner**
-- **Google Data Analytics**  
-- **Google Advanced Data Analytics**  
-- **Google Cyber Security**  
-- **Google Project Management**  
+- **Google Data Analytics** ([Coursera](https://coursera.org/share/68ad11764de13f036b7945a3bbfd6097) | [PDF](pdf/Coursera%209G9QENJGCC9Y.pdf))
+- **Google Advanced Data Analytics** ([Coursera](https://coursera.org/share/db8b83931d9051c38cadae9b885fbdf9) | [PDF](pdf/Coursera%20BDJFAPK9R6JF.pdf))
+- **Google Cybersecurity** ([Coursera](https://coursera.org/share/1e7c99e3059887896a6ec9eb46c1a501) | [PDF](pdf/Coursera%20NEKX26VN9LZU.pdf))
+- **Google Project Management** ([Coursera](https://coursera.org/share/650959e4018f4d79a71b702b0007f956) | [PDF](pdf/Coursera%20Q8V35HGW8RSP.pdf))
 - **Japanese Language Proficiency Test (JLPT N3)**
 
 <p>
