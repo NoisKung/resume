@@ -24,7 +24,7 @@ Motivated and detail-oriented software engineer with 5+ years of experience desi
 - **Agile Methodologies**: Experienced in Scrum workflows, sprint planning, and iterative development cycles to deliver high-quality software on time.
 - **Technical Documentation**: Proficient in writing and maintaining technical documentation for internal and external users.
 - **IT Support**: Provided technical support and troubleshooting for end-users, ensuring minimal downtime and optimal system performance.
-- **Project Leadership**: Led a 5-member IT support team, aligning development efforts with user needs and support insights.
+- **Project Leadership**: Led a 3-5-member Software Engineer and IT Support team, aligning development efforts with user needs and support insights.
 - **Cross-functional Collaboration**: Worked directly with Japanese and Thai teams on shared codebases, support tooling, and multi-national deployments.
 - **Business Ownership & Commercial Judgement**: Own and operate real P&L businesses — government lottery retail, a delivery-only restaurant on LINE MAN and Grab, and a self-directed investment portfolio. Comfortable reasoning about pricing, unit economics, and risk, not only about code.
 - **Founder-level Product Ownership**: Took PawCRM from customer discovery to a live, paying-tier SaaS — designing the business model and the system that delivers it, and communicating both to technical and non-technical audiences.
