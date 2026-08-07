@@ -130,7 +130,7 @@ Motivated and detail-oriented software engineer with 5+ years of experience desi
 | Category                 | Skills                                                        |
 |--------------------------|---------------------------------------------------------------|
 | Languages                | C#, SQL, TypeScript (basic), JavaScript (basic)               |
-| Frameworks               | .NET, ASP.NET MVC, WPF, Web API, .NET Blazor                  |
+| Frameworks               | .NET 10, ASP.NET MVC, WPF, Web API, .NET Blazor                  |
 | Cloud Platforms Skill    | Azure, AWS, Google Cloud                                      |
 | Modern Web Development   | Full Stack Next.js, React, TypeScript                         |
 | Databases                | SQL Server, MongoDB, PostgreSQL                               |
